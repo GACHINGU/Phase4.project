@@ -1,6 +1,16 @@
-# Telecommunications Analysis
+# Apple and Google Products Sentiment Analysis
 
 ## Authors
+1. Elvis Wanjohi 
+
+2. Jessica Gichimu
+
+3. Jesse Ngugi
+
+4. Stephen Gachingu
+
+5. Latifa Riziki
+
 
 
 ## 1. Business Understanding
