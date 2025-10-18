@@ -1,0 +1,18 @@
+--requirement ../requirements.txt
+
+pytest
+pytest-cov
+covdefaults
+rich
+ruff
+pylint[spelling]
+mypy
+doc8
+pyenchant
+xdoctest
+cpplint
+pre-commit
+
+jax[cpu] >= 0.4.6
+numpy
+torch
